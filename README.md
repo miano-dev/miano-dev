@@ -1,32 +1,53 @@
 # John Muturi Miano
 
-### Senior IoT Engineer | Instrumentation & Control | Industrial Automation | Embedded Systems
+### Instrumentation & Control Engineer · Industrial Automation · IoT · Embedded Systems
 
-Nairobi, Kenya
+Nairobi, Kenya · [GitHub](https://github.com/miano-dev) · [LinkedIn](https://www.linkedin.com/in/john-miano)
 
-I am an Instrumentation, Control and IoT Engineer with 8+ years of engineering experience across industrial automation, electrical and instrumentation systems, embedded controls, sensor integration, connected monitoring, and field deployment.
+I build systems that connect **physical infrastructure to software** — from sensors, embedded controllers and PLCs to telemetry, edge computing, dashboards and operational decision-making.
 
-My engineering work sits at the boundary between **physical systems and software**: sensors and actuators, PLCs and embedded controllers, communications, data acquisition, monitoring, control logic, testing, troubleshooting, and operational requirements.
+My work combines engineering discipline with product/software implementation: defining interfaces, integrating hardware and software, validating behaviour, troubleshooting failures, and taking systems toward field deployment.
 
-## Engineering Focus
+## What I Build
 
-- **IoT & connected systems** — device integration, telemetry, monitoring, MQTT
-- **Embedded systems** — ESP32/ESP8266, Arduino, Raspberry Pi
-- **Industrial automation** — PLCs, control logic, instrumentation, commissioning
-- **Electrical systems** — control panels, field interfaces, electrical equipment
-- **Sensors & data acquisition** — environmental and process measurements
-- **Monitoring & analytics** — InfluxDB, Grafana, dashboards and operational data
-- **System integration** — hardware/software interfaces, testing and troubleshooting
+- **Industrial IoT** — connected monitoring, telemetry, MQTT and device integration
+- **Embedded systems** — ESP32/ESP8266, Arduino and Raspberry Pi
+- **Instrumentation & automation** — sensors, actuators, PLCs, control logic and commissioning
+- **Edge-connected systems** — device → gateway → application architectures
+- **Monitoring & analytics** — operational dashboards, data acquisition, Grafana and InfluxDB
+- **Web applications** — TypeScript, React, Vite and modern UI/data tooling
+- **Agricultural technology** — soil sensing, farm monitoring and field-oriented IoT systems
 - **Energy applications** — solar-powered systems, pumping and electrical equipment
-- **Product engineering** — requirements, prototyping, integration, testing and deployment
 
-## Systems I Work With
+## Selected Projects
+
+### [AfriIOT](https://github.com/miano-dev/AfriIOT)
+Agricultural IoT product/software layer built around connected farm operations, monitoring, dashboards, analytics and automation concepts.
+
+**Stack:** TypeScript · React · TanStack · Vite · Tailwind CSS · Recharts · Zod
+
+**Demonstrates:** product-oriented frontend engineering, IoT domain modelling, operational dashboards and data visualisation.
+
+### [Shamba Soil Intelligence](https://github.com/miano-dev/shamba-soil-intelligence)
+Field-oriented soil intelligence system combining physical sensing with digital agricultural intelligence.
+
+**Architecture:** NPK probe → ESP32 → custom PCB → Raspberry Pi edge/gateway → web application + satellite data
+
+**Demonstrates:** embedded sensing, instrumentation, electronics, edge computing and end-to-end IoT system integration.
+
+### [AfriIoT-APP](https://github.com/miano-dev/AfriIoT-APP)
+Private Android/IoT application repository. The repository includes an Android/Gradle project and Firestore security rules.
+
+### ArduPilot / UAV Work
+[ardupilot](https://github.com/miano-dev/ardupilot) and [ardupilot-1](https://github.com/miano-dev/ardupilot-1) reflect work and experimentation around the ArduPilot ecosystem and embedded/UAV systems.
+
+## System Thinking
 
 ```text
 Sensors / Field Devices
         │
         ▼
-PLC / Embedded Controller
+PLC / ESP32 / Embedded Controller
         │
         ├── Control Logic ──► Actuators / Equipment
         │
@@ -34,60 +55,50 @@ PLC / Embedded Controller
 Connectivity / Telemetry
         │
         ▼
-Data Platform
+Edge / Data Platform
         │
         ▼
-Monitoring / Dashboards / Alerts
+APIs / Dashboards / Alerts
         │
         ▼
 Operational Decisions
 ```
 
-## Selected Work
-
-### AfriIOT
-Agricultural technology platform focused on the product and web layer of a connected-agriculture ecosystem.
-
-**Themes:** IoT monitoring · greenhouse automation · agricultural data · analytics · connected operations
-
-→ [View AfriIOT](https://github.com/miano-dev/AfriIOT)
-
-### UAV / Embedded Systems
-Work and experimentation around UAV electronics and embedded systems, including the ArduPilot ecosystem.
-
-→ [View repository](https://github.com/miano-dev/ardupilot)
-
-### Industrial Automation & IoT
-Professional engineering experience includes PLC-based automation, sensor-driven systems, automated irrigation, solar pumping, connected monitoring, control panels, field troubleshooting, commissioning and multidisciplinary system integration.
+I am particularly interested in engineering where **reliability, intermittent connectivity, real-world hardware and useful software interfaces** all matter.
 
 ## Technical Stack
 
 | Area | Technologies |
 |---|---|
-| Controllers | ESP32, ESP8266, Arduino, Raspberry Pi |
-| PLCs | Delta, Siemens, Allen-Bradley |
-| IoT | MQTT, connected monitoring, telemetry |
-| Data | InfluxDB, Grafana, data acquisition |
-| Instrumentation | Sensors, actuators, control panels, field interfaces |
-| Automation | PLC programming, control logic, commissioning |
+| Embedded | ESP32, ESP8266, Arduino, Raspberry Pi |
+| Automation | PLCs, control logic, instrumentation, commissioning |
+| IoT | MQTT, telemetry, connected monitoring |
+| Web | TypeScript, React, Vite, TanStack |
+| Data & Monitoring | InfluxDB, Grafana, dashboards, visualisation |
+| Mobile / Cloud | Android/Gradle, Firebase/Firestore |
+| Engineering | Sensors, actuators, control panels, field interfaces |
 | Energy | Solar systems, pumping, electrical equipment |
-| Software | TypeScript, React, Vite, Git, GitHub Actions |
+| Dev Workflow | Git, GitHub Actions, ESLint, Prettier |
 
-## Engineering Approach
+## IoT Platform Engineering
 
-I focus on turning operational requirements into systems that can be **specified, integrated, tested, troubleshot and deployed**.
+My portfolio spans both sides of an IoT platform:
 
-That includes understanding system behaviour, defining interfaces between hardware and software, identifying failure points, validating control and monitoring functions, and working across engineering disciplines to move a system from concept to field operation.
+**Physical layer** — instrumentation, sensors, embedded controllers, electrical interfaces and field deployment.
+
+**Software layer** — web applications, dashboards, data visualisation, application architecture and connected-system workflows.
+
+That combination maps directly to the kind of engineering required when **real-world asset data must become reliable software and actionable operations**.
 
 ## Currently Interested In
 
-- Industrial IoT
-- Embedded control systems
-- Energy monitoring and management
-- BESS / EMS / SCADA interfaces
+- Industrial IoT and edge computing
+- IoT firmware and device integration
+- Real-time monitoring platforms
+- APIs and data pipelines
+- React / TypeScript applications
 - Sensor networks and telemetry
-- Industrial communications
-- Edge-connected systems
+- Energy monitoring / EMS / SCADA interfaces
 - Automation and field-deployed products
 
 ## Background
@@ -96,7 +107,8 @@ That includes understanding system behaviour, defining interfaces between hardwa
 
 **Certificate in Communication Systems** — Multimedia University
 
-## Connect
+---
 
-- LinkedIn: [john-miano](https://www.linkedin.com/in/john-miano)
-- GitHub: [miano-dev](https://github.com/miano-dev)
+### Contact
+
+[LinkedIn](https://www.linkedin.com/in/john-miano) · [GitHub](https://github.com/miano-dev)
