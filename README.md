@@ -1,6 +1,6 @@
 # John Muturi Miano
 
-### Instrumentation & Control Engineer · Industrial Automation · IoT · Embedded Systems
+### Instrumentation & Control Engineer · Industrial Automation · IoT · Embedded Systems .AI intergrations.
 
 Nairobi, Kenya · [GitHub](https://github.com/miano-dev) · [LinkedIn](https://www.linkedin.com/in/john-miano)
 
@@ -16,7 +16,7 @@ My work combines engineering discipline with product/software implementation: de
 - **Edge-connected systems** — device → gateway → application architectures
 - **Monitoring & analytics** — operational dashboards, data acquisition, Grafana and InfluxDB
 - **Web applications** — TypeScript, React, Vite and modern UI/data tooling
-- **Agricultural technology** — soil sensing, farm monitoring and field-oriented IoT systems
+- **Agricultural technology** — soil sensing, farm monitoring, AI and field-oriented IoT systems
 - **Energy applications** — solar-powered systems, pumping and electrical equipment
 
 ## Selected Projects
