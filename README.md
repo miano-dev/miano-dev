@@ -31,7 +31,7 @@ Agricultural IoT product/software layer built around connected farm operations, 
 ### [Shamba Soil Intelligence](https://github.com/miano-dev/shamba-soil-intelligence)
 Field-oriented soil intelligence system combining physical sensing with digital agricultural intelligence.
 
-**Architecture:** NPK probe → ESP32 → custom PCB → Raspberry Pi edge/gateway → web application + satellite data
+**Architecture:** NPK probe → ESP32 → custom PCB → Raspberry Pi edge/gateway → web application + satellite data + AI
 
 **Demonstrates:** embedded sensing, instrumentation, electronics, edge computing and end-to-end IoT system integration.
 
